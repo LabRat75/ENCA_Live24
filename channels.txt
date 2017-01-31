@@ -1,0 +1,1 @@
+name= ENCA Live 24 url= "http://urtmpkal-f.akamaihd.net/i/1ciwepkyc_1@431710/master.m3u8?" logo= "https://encadrupal.s3.amazonaws.com/livestreaming/enca-logo.png"
